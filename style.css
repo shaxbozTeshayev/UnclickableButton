@@ -1,0 +1,7 @@
+button {
+  font-size: 2vmin;
+  position: fixed;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  
+}
